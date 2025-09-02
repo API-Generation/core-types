@@ -1,0 +1,12 @@
+modelFileUrl: "https://github.com/api-generation/core-types/blob/main/core-types.xml"
+outputDirUrl: "https://github.com/api-generation/core-types/blob/main/generated"
+modelConfig:
+  packageNames:
+    typesPackage: "Core Types"
+loader:
+  configFileUrl: "https://github.com/api-generation/common-config/blob/main/config/loaders/ea-xmi/config.yaml"
+  outputSubDir: "mtt-models"
+generators:
+  mkdocs:
+    configFileUrl: "https://github.com/api-generation/common-config/blob/main/config/generators/mkdoc/config.yaml"
+    outputSubDir: "docs/mkdocs"
