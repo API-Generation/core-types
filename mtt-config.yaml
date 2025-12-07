@@ -1,5 +1,5 @@
 modelFileUrl: "https://github.com/api-generation/core-types/blob/main/core-types.xml"
-outputDirUrl: "https://github.com/api-generation/core-types/blob/main/generated"
+outputDirUrl: "https://github.com/api-generation/core-types/blob/main/generated/"
 modelConfig:
   packageNames:
     typesPackage: "Core Types"
